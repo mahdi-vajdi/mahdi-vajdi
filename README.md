@@ -1,4 +1,10 @@
-<h4 align="left">👋 Hi, I’m Mahdi — a backend developer with a passion for building reliable and scalable systems.<br>🚀 I work mostly with Node.js, NestJS.<br>🧠 I enjoy learning about system design, distributed systems, and backend architecture.<br>🛠️ Currently exploring Go and building side projects to deepen my knowledge.<br>📚 Always learning, always building.</h4>
+README.md
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
+<h4 align="left">👋 Hi, I’m Mahdi Vajdi — a backend developer with a passion for building reliable and scalable systems.<br>🚀 I work mostly with Node.js, NestJS.<br>🧠 I enjoy learning about system design, distributed systems, and backend architecture.<br>🛠️ Currently exploring Go and building side projects to deepen my knowledge.<br>📚 Always learning, always building.</h4>
 
 ###
 
@@ -10,6 +16,7 @@
   <a href="https://www.linkedin.com/in/mahdi-vajdi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
   <a href="https://t.me/mahdi_vajdi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  />
   </a>
@@ -36,3 +43,34 @@
 </div>
 
 ###
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Github
+Donate
+Share
+Privacy Policy
+Copy File Content
+Level Up Your README
+Anyone can use templates — but when you know what you’re doing, it shows.
+
+👉 Explore resources that will upgrade your skills — and your README. Start now.
+
+
+Clean Code
+A Handbook of Agile Software Craftsmanship by Uncle Bob.
+
+Get the book
+
+Clean Architecture
+Software Architecture Solutions from Uncle Bob.
+
+Get the book
+
+Explore More Books
+Browse the full list of curated titles to boost your coding skills.
+
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+Profile Readme Generator
+⚙
