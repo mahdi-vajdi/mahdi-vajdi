@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hi, I’m Mahdi Vajdi — a backend developer with a passion for building reliable and scalable systems.<br>🚀 I work mostly with Node.js, NestJS.<br>🧠 I enjoy learning about system design, distributed systems, and backend architecture.<br>🛠️ Currently exploring Go and building side projects to deepen my knowledge.<br>📚 Always learning, always building.</h4>
+<h4 align="left">👋 Hi, I’m Mahdi — a backend developer with a passion for building reliable and scalable systems.<br>🚀 I work mostly with Node.js, NestJS.<br>🧠 I enjoy learning about system design, distributed systems, and backend architecture.<br>🛠️ Currently exploring Go and building side projects to deepen my knowledge.<br>📚 Always learning, always building.</h4>
 
 ###
 
